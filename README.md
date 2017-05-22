@@ -1,2 +1,2 @@
 # TravelChecklist
-Minimal Travel packing checklist
+Minimal Travel Packing Checklist
